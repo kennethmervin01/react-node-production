@@ -30,7 +30,7 @@ yarn start
 
 #### For Production
 
-Convert your ECMAScript 2015+ node scripts into a backward compatible version and put it inside the build folder
+Convert your ECMAScript 2015+ node scripts into a backward compatible version and put it in the build folder
 
 ```bash
 yarn build

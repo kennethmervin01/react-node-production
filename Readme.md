@@ -1,6 +1,6 @@
 ## react-node-production
 
-Boilerplate to serve "Production Build React Applications" in Node.js/Express Server
+Boilerplate to serve "Production Build React Applications" in Node.js/Express Server (ES6 Ready)
 
 ### Installation
 
